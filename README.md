@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedazizferchichi" alt="mohamedazizferchichi" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Angualr Js , Express , Nest Js**
+- 💬 Ask me about **Angualr Js , Express ,Spring **
 
 - 📫 How to reach me **mohamedaziz.ferchichi@esprit.tn**
 
